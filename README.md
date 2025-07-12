@@ -60,5 +60,5 @@ Based on the analysis, OmniRetail should consider the following strategic action
 
 ---
 
-(https://github.com/user-attachments/assets/bd294918-e97d-413a-bf05-3fc053622b60)
 
+![Customer satisfaction and loyalty](https://github.com/user-attachments/assets/da35c819-fb0f-4fac-8e84-252e78a62964)
