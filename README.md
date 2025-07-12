@@ -60,9 +60,5 @@ Based on the analysis, OmniRetail should consider the following strategic action
 
 ---
 
-## Acknowledgements
-
-A huge thank you to **@OnyxData**, **@ZoomCharts**, and all the sponsors for providing this excellent dataset and challenge for the data community.
-
-#PowerBI #DataVisualization #CustomerAnalytics #CustomerLoyalty #CustomerSatisfaction #DataDNA #builtwithzoomcharts #ZoomCharts #OnyxData #DAX #BI #Analytics #BusinessIntelligence #DataStorytelling![Customer satisfaction and loyalty](https://github.com/user-attachments/assets/bd294918-e97d-413a-bf05-3fc053622b60)
+(https://github.com/user-attachments/assets/bd294918-e97d-413a-bf05-3fc053622b60)
 
